@@ -119,6 +119,7 @@ class _RegisterPageState extends State<RegisterPage> {
                           height: 20,
                         ),
                         SizedBox(
+                          height: 50,
                           width: double.infinity,
                           child: ElevatedButton(
                             style: ElevatedButton.styleFrom(
